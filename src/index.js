@@ -88,6 +88,6 @@ app.use('/',routes)
 
 
 
-app.listen(process.env.PORT |4501 ,()=>{
+app.listen(process.env.PORT |5000 ,()=>{
     console.log("server started")
 })
